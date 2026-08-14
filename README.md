@@ -46,6 +46,8 @@ Each notebook corresponds to a chapter/section of the course. Open in Jupyter, V
 Also check out my annotated Vector Database & ChromaDB notes:  
 👉 [Annotated-VectorDB-ChromaDB-Course](https://github.com/rehan-ml/Annotated-VectorDB-ChromaDB-Course/tree/main)
 
+👉 [Annoted-LlamaIndex-Tutorial](https://github.com/rehan-ml/LlamaIndex-Tutorial)
+
 ## Credit
 
 All original course content, structure, and exercises belong to [HuggingFace](https://huggingface.co/learn/llm-course/) and its authors. This repository is an educational derivative — annotated, corrected, and expanded for personal learning purposes, shared publicly in case it helps others.
