@@ -46,9 +46,9 @@ Each notebook corresponds to a chapter/section of the course. Open in Jupyter, V
 Also check out my annotated Vector Database & ChromaDB notes:  
 👉 [Annotated-VectorDB-ChromaDB-Course](https://github.com/rehan-ml/Annotated-VectorDB-ChromaDB-Course/tree/main)
 
-👉 [Annoted-LlamaIndex-Tutorial](https://github.com/rehan-ml/LlamaIndex-Tutorial)
+👉 [Annoted-LlamaIndex-Tutorial](https://github.com/rehan-ml/Annotated-LlamaIndex-Tutorial)
 
-👉 [Annoted-LangChain-Tutorial](https://github.com/rehan-ml/LangChain-Tutorial)
+👉 [Annotated-LangChain-Tutorial](https://github.com/rehan-ml/Annotated-LangChain-Tutorial)
 
 ## Credit
 
