@@ -57,3 +57,8 @@ All original course content, structure, and exercises belong to [HuggingFace](ht
 ## License
 
 MIT License — see [LICENSE](LICENSE) file. Free to use, modify, and share.
+
+## Author
+**Rehan Raza**  
+Building toward an Applied AI/ML Engineer role — sharing 
+everything I learn along the way.
