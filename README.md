@@ -48,6 +48,8 @@ Also check out my annotated Vector Database & ChromaDB notes:
 
 👉 [Annoted-LlamaIndex-Tutorial](https://github.com/rehan-ml/LlamaIndex-Tutorial)
 
+👉 [Annoted-LangChain-Tutorial](https://github.com/rehan-ml/LangChain-Tutorial)
+
 ## Credit
 
 All original course content, structure, and exercises belong to [HuggingFace](https://huggingface.co/learn/llm-course/) and its authors. This repository is an educational derivative — annotated, corrected, and expanded for personal learning purposes, shared publicly in case it helps others.
